@@ -24,13 +24,13 @@
   },
   "homepage": "https://github.com/Naltox/telegram-node-bot",
   "dependencies": {
-    "tiny_request": "latest",
     "cheerio": "^0.20.0",
+    "cluster": "^0.7.7",
+    "ink-docstrap": "latest",
     "jsdoc": "latest",
-    "ink-docstrap": "latest"
+    "tiny_request": "latest"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "engines": {
     "node": ">=6.0.0"
   }
